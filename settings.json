@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MCSFFM.aternos.me:48652",
-    "port": 48652,
+    "ip": "ffmcm.aternos.me",
+    "port": 23341,
     "version": "",
     "try-creative": false
   },
